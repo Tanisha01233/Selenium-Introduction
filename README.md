@@ -35,7 +35,8 @@ The presentation explains the basics of Selenium and how it is used for automati
 
 ## 📄 Presentation
 
-[View the Introduction to Selenium Presentation](Introduction_to_Selenium.pdf)
+
+Introduction_to_Selenium.pdf
 
 ## 👩‍💻 Created By
 
